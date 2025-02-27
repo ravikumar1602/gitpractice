@@ -5,7 +5,7 @@ git status-----------this is used to check thr status of the folder that all the
 if you are going to add any new file in the folder then check with got status and it will  show you untrack file. To /make this part of git you need to perform git add and git commit
 
 
-git add--------------when you are adding the file for the first time as part of git repository
+git add --a------------when you are adding the file for the first time as part of git repository
 git add .
 git add *
 
